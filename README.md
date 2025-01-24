@@ -16,10 +16,10 @@
 ## Screeshots
 <p>
 <img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/Dark.jpg" width="236" height="500" style="margin-right: 40px">
-<img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/Full News Article.png" width="236" height="500" style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/Saved News Screen.jpg" width="236" height="500" style="margin-right: 40px">
 <img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/HomeScreen Dark.jpg" width="236" height="500" style="margin-right: 40px">
 <img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/HomeScreen.png" width="236" height="500" style="margin-right: 40px">
 <img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/News Sections.png" width="236" height="500" style="margin-right: 40px">
-<img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/Saved News Screen.jpg" width="236" height="500" style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/Full News Article.png" width="236" height="500" style="margin-right: 40px">
 </p>
 
